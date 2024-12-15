@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Margarita",
+    "price": 8.99,
+    "ingredients": ["Tomate", "Mozzarella", "Albahaca fresca"],
+    "imgUrl": "https://img.freepik.com/free-photo/top-view-delicious-pizza-with-fresh-cheese_23-2150096953.jpg?t=st=1734293892~exp=1734297492~hmac=18b6b9430507c436b611ddb3fc8a24c05851ae1d1ae564746e433ba75df84f33&w=740"
+  },
+  {
+    "name": "Pepperoni",
+    "price": 10.99,
+    "ingredients": ["Tomate", "Mozzarella", "Pepperoni"],
+    "imgUrl": "https://img.freepik.com/free-photo/italian-pizza-with-salami-sausages-dill-mushroom-red-onion-cheese-white-background_140725-475.jpg?t=st=1734293916~exp=1734297516~hmac=152d99cc4b4ba214c9ad5a9243bc4d824c32e72d6065183c57b18173811f15a3&w=740"
+  },
+  {
+    "name": "Cuatro Quesos",
+    "price": 11.99,
+    "ingredients": ["Mozzarella", "Gorgonzola", "Parmesano", "Queso de cabra"],
+    "imgUrl": "https://img.freepik.com/free-photo/pizza-four-cheese-table_140725-5392.jpg?t=st=1734293942~exp=1734297542~hmac=6c4f17dbb4820e67f428f962c7a8024915805255ea0c2dac3e41f1177d3c3b74&w=740"
+  },
+  {
+    "name": "Hawaiana",
+    "price": 9.99,
+    "ingredients": ["Tomate", "Mozzarella", "Jamón", "Piña"],
+    "imgUrl": "https://img.freepik.com/free-photo/top-view-delicious-baked-pineapple-pizza_23-2148753776.jpg?t=st=1734293965~exp=1734297565~hmac=c2b2bed3ca6885acefc870e84cbe46fb4fd4a9357b14ac6507cb040ed82ba1cc&w=740"
+  },
+  {
+    "name": "Vegetariana",
+    "price": 9.49,
+    "ingredients": [
+      "Tomate",
+      "Mozzarella",
+      "Champiñones",
+      "Pimientos",
+      "Cebolla",
+      "Aceitunas"
+    ],
+    "imgUrl": "https://img.freepik.com/free-photo/top-view-female-hands-holding-raw-vegan-mushroom-pizza-served-wooden-board_181624-53528.jpg?t=st=1734293985~exp=1734297585~hmac=3543bc4c5817c987fc76f4e32f2e3adf1bfffe3a16a1cbf7f03c0b6207ff3428&w=740"
+  },
+  {
+    "name": "Barbacoa",
+    "price": 12.99,
+    "ingredients": ["Salsa barbacoa", "Mozzarella", "Pollo", "Cebolla", "Maíz"],
+    "imgUrl": "https://img.freepik.com/free-photo/side-view-meat-pizza-with-bell-pepper-barbecue-sauce-tray_140725-11449.jpg?t=st=1734294111~exp=1734297711~hmac=739783a34c01d097bc8b6f8d6830a619ce5670ea9333f4ce26dcce7e99697835&w=360"
+  },
+  {
+    "name": "Carbonara",
+    "price": 10.49,
+    "ingredients": [
+      "Salsa de crema",
+      "Mozzarella",
+      "Bacon",
+      "Cebolla",
+      "Parmesano"
+    ],
+    "imgUrl": "https://img.freepik.com/free-photo/pizza-restaurant-table_7939-2528.jpg?t=st=1734294039~exp=1734297639~hmac=52867b4fcfc1d7eb381b023397a23d25da995be4b98aea5516ab8c82328c47e9&w=740"
+  },
+  {
+    "name": "Diavola",
+    "price": 11.49,
+    "ingredients": ["Tomate", "Mozzarella", "Salami picante", "Pimientos"],
+    "imgUrl": "https://img.freepik.com/free-photo/flat-lay-tasty-pizza-wooden-background_23-2148601601.jpg?t=st=1734294075~exp=1734297675~hmac=5099e87c89ffa50af2f88d1ebc313b0cd6af13cc454da0ca4906913efd2b43c9&w=740"
+  }
+]
